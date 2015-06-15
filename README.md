@@ -1,5 +1,5 @@
 # Packet Assistant
-Packet Assistant is a simple tools for sending and capturing packets.
+Packet Assistant is a simple tool for sending and capturing packets.
 
 ### Requirements
 * Python 2.x
